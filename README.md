@@ -1,4 +1,4 @@
-# File Manipulator Program
+# File Manipulator Program（node.js版）
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 
 CLIで指定されたコマンドを実行し、ファイル操作の処理を行うプログラムです。
